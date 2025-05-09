@@ -1,5 +1,3 @@
-# CompositeDesignPatternSample
-
 # 🎯 Composite DesignPattern Sample in C#
 
 This project demonstrates the **Composite Design Pattern** using a menu system as an example.
