@@ -1,15 +1,12 @@
 # 🎯 Composite DesignPattern Sample in C#
 
 This project demonstrates the **Composite Design Pattern** using a menu system as an example.
----
 
 ## 📌 What is the Composite Pattern?
 
 The Composite Pattern is a structural design pattern that allows you to compose objects into tree structures to represent part-whole hierarchies. It lets clients treat individual objects and compositions uniformly.
 
 In simpler terms: it lets you treat both single items and groups of items in the same way.
-
----
 
 ## 🧩 Classes
 
